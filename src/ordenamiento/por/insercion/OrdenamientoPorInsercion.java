@@ -1,8 +1,5 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
+//Ordenamiento de numeros por por insercion
+
 package ordenamiento.por.insercion;
 import java.util.Scanner;
 import javax.swing.JOptionPane;
